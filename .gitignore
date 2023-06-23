@@ -58,6 +58,7 @@ env/
 venv/
 ENV/
 codigo/cuantico
+quantum/
 
 # sftp configuration file 
 sftp-config.json
