@@ -11,7 +11,8 @@ Recursos:
 Para practicar el código en un jupyter:
 
 ```console
->  source ./codigo/cuantico/bin/activate
-> jupyter notebook
+>  source ./quantum/bin/activate
+> ./quantum/bin/jupyter notebook
 ```
 
+Desactivar el entorno: `deactivate`
