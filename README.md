@@ -4,10 +4,10 @@ Por ahora va a ser un sitio donde ir poniendo lo que vaya investigando/aprendien
 
 Por una parte, va a tener un directorio donde guarde [código](./codigo`), y otro donde guarde los [apuntes, artículos, resúmenes, etc](./Teoria/Notas.md)
 
-
 Recursos:
 
-- <https://quantum-computing.ibm.com/>
+- [IBM](https://quantum-computing.ibm.com/)
+- módulo de AWS para QC: [bracket](https://aws.amazon.com/es/braket/)
 
 Para practicar el código en un jupyter:
 
